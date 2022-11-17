@@ -1,0 +1,26 @@
+{
+  "name": "@vpeltot/ecoindex-formula",
+  "version": "0.0.2",
+  "description": "Ecoindex formula",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpeltot/ecoindex-formula.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vpeltot/ecoindex-formula/issues"
+  },
+  "homepage": "https://github.com/vpeltot/ecoindex-formula#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0",
+    "nyc": "^15.1.0"
+  }
+}
